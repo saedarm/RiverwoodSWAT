@@ -1,0 +1,24 @@
+# Ported game assets stay out of the repo
+meshes/
+textures/
+sound/
+*.nif
+*.dds
+*.wav
+*.wem
+*.fuz
+*.gltf
+*.glb
+*.psk
+*.bin
+*.png
+*.blend
+*.blend1
+
+# Compiled scripts and archives
+*.pex
+*.bsa
+*.ba2
+
+# Tools
+__pycache__/
